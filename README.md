@@ -5,5 +5,7 @@ The lockout bot is a discord bot that basically automates the process of conduct
 # Tech - stack used : 
 
 Python - basis of the code
+
 Discord.py - intgrating the bot with discord
+
 MongoDB - To store the data of the participants in the tournament
